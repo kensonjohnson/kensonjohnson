@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Kenson!
 
-I'm a Front End Web Developer 
+I'm a Full Stack Web Developer 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>  
