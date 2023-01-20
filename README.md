@@ -2,6 +2,14 @@
 
 I'm a Full Stack Web Developer.  
 My most recent resume can be found [here](https://kensonjohnson.github.io/resume/ "Resume Link").
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kensonjohnson/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/KensonJohnson">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
@@ -12,4 +20,6 @@ My most recent resume can be found [here](https://kensonjohnson.github.io/resume
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
 </p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kensonjohnson&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kensonjohnson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-pearl-gamma.vercel.app/api/top-langs/?username=kensonjohnson&theme=transparent)](https://github.com/kensonjohnson/github-readme-stats)
+
+![Kenson's GitHub stats](https://github-readme-stats-pearl-gamma.vercel.app/api?username=kensonjohnson&show_icons=true&theme=transparent)
