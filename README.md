@@ -1,7 +1,5 @@
 ## 👋 Hi, I’m Kenson!
 
-I'm a Full Stack Web Developer.  
-My most recent resume can be found [here](https://kensonjohnson.github.io/resume/ "Resume Link").
 <div id="badges">
   <a href="https://www.linkedin.com/in/kensonjohnson/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,15 +9,32 @@ My most recent resume can be found [here](https://kensonjohnson.github.io/resume
   </a>
 </div>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+I'm a Full Stack Web Developer from Arkansas.
+
+- :telescope: My most recent resume can be found [here](https://kensonjohnson.github.io/resume/ "Resume Link").
+- :seedling: Exploring DevOps, ReactJS, NoSQL and TypeScript.
+- :zap: In my free time I'm solving LeetCode building out personal projects.
+
+<br />
+
+
+
+## :hammer_and_wrench: Languages and Tools :
+<div align="left">
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" hspace="5px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50" hspace="5px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" hspace="5px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" hspace="5px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="50" height="50" hspace="5px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" hspace="5px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" hspace="5px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" width="50" height="50" hspace="5px"/>
+  </p>
+  <br />
+</div>
+
+<p>
+  <img src="https://github-readme-stats-pearl-gamma.vercel.app/api/top-langs/?username=kensonjohnson&theme=transparent" alt="Top Languages" align="left" />
+  <img src="https://github-readme-stats-pearl-gamma.vercel.app/api?username=kensonjohnson&show_icons=true&theme=transparent" alt="Kenson's GitHub Stats" hspace="20px" align="left" />
 </p>
-
-[![Top Langs](https://github-readme-stats-pearl-gamma.vercel.app/api/top-langs/?username=kensonjohnson&theme=transparent)](https://github.com/kensonjohnson/github-readme-stats)
-
-![Kenson's GitHub stats](https://github-readme-stats-pearl-gamma.vercel.app/api?username=kensonjohnson&show_icons=true&theme=transparent)
