@@ -15,10 +15,6 @@ I'm a Full Stack Web Developer from Arkansas.
 - :seedling: Exploring DevOps, ReactJS, NoSQL and TypeScript.
 - :zap: In my free time I'm solving LeetCode building out personal projects.
 
-<br />
-
-
-
 ## :hammer_and_wrench: Languages and Tools :
 <div align="left">
   <p>
