@@ -32,5 +32,5 @@ I'm a Full Stack Web Developer from Arkansas.
 
 <p>
   <img src="https://github-readme-stats-pearl-gamma.vercel.app/api/top-langs/?username=kensonjohnson&theme=transparent" alt="Top Languages" align="left" />
-  <img src="https://github-readme-stats-pearl-gamma.vercel.app/api?username=kensonjohnson&show_icons=true&theme=transparent" alt="Kenson's GitHub Stats" />
+  <img src="https://github-readme-stats-pearl-gamma.vercel.app/api?username=kensonjohnson&show_icons=true&theme=transparent" alt="Kenson's GitHub Stats" align="right" />
 </p>
