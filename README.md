@@ -13,7 +13,7 @@ I'm a Full Stack Web Developer from Arkansas.
 
 - :telescope: My most recent resume can be found [here](https://kensonjohnson.github.io/resume/ "Resume Link").
 - :seedling: Exploring DevOps, ReactJS, NoSQL and TypeScript.
-- :zap: In my free time I'm solving LeetCode building out personal projects.
+- :zap: In my free time I'm solving LeetCode and building out personal projects.
 
 ## :hammer_and_wrench: Languages and Tools :
 <div align="left">
