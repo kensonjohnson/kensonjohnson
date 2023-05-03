@@ -9,12 +9,12 @@
   </a>
 </div>
 
-I'm a Full Stack Web Developer from Arkansas.
+I'm a Software Engineer from Arkansas.
 
 - :telescope: My most recent resume can be found [here](https://kensonjohnson.github.io/resume/ "Resume Link").
-- :muscle: React, NoSQL, Node and TypeScript.
-- :seedling: Exploring DevOps, ML, and C++.
-- :zap: In my free time I'm solving LeetCode and building out personal projects.
+- :muscle: TypeScript, Node, React, Next, Swift, SwiftUI and NoSQL.
+- :seedling: Exploring DevOps, ML, C++ and Java.
+- :zap: In my free time I'm teaching and building out personal projects.
 
 ## :hammer_and_wrench: Languages and Tools :
 <div align="left">
