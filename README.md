@@ -11,7 +11,7 @@
 
 I'm a Software Engineer from Arkansas.
 
-- :telescope: My most recent resume can be found [here](https://kensonjohnson.github.io/resume/ "Resume Link").
+- :telescope: My most recent resume can be found [here](https://kensonjohnson.com "Resume Link").
 - :muscle: TypeScript, Node, React, Next, Swift, SwiftUI and NoSQL.
 - :seedling: Exploring DevOps, ML, C++ and Java.
 - :zap: In my free time I'm teaching and building out personal projects.
