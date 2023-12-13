@@ -16,7 +16,7 @@ I'm a Software Engineer from Arkansas.
 - :seedling: Exploring DevOps, ML, C++ and Java.
 - :zap: In my free time I'm teaching and building out personal projects.
 
-## :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools
 <div align="left">
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" hspace="5px"/>
