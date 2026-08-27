@@ -12,7 +12,7 @@
 I'm a Software Engineer from Arkansas.
 
 <!-- - :telescope: My most recent resume can be found [here](https://kensonjohnson.com "Resume Link"). -->
-- :muscle: TypeScript, Node, React, Next, Go, SQL, NoSQL, and OpenAI API.
+- :muscle: TypeScript, Node, React, Next, Go, SQL, and Agents.
 - :seedling: Exploring DevOps, ML, and Game Dev.
 - :zap: In my free time I'm teaching and building out personal projects.
 
